@@ -47,6 +47,12 @@ urlimg: 'https://chipmuenk.github.io/images/'
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
+header:
+    title: Chipmuenk
+    image_fullwidth: logo.png
+    caption: This is a caption for the header image with link
+    # caption_url: https://unsplash.com/
+
 # Plugins
 plugins:
     - jekyll-asciidoc
