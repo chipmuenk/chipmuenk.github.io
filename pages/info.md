@@ -5,7 +5,7 @@ subheadline: "Landing page"
 teaser: "Endlich eine Seite, um meine Github Repos und andere Infos an einem Ort zu sammeln."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "header_desktop.jpg"
 ---
 ... und zu lernen, wie man mit Jeky[ll Webseiten baut. Die Seiten basieren auf dem Theme
 "[Feeling Reponsive][1]" von [Phlow][2].
